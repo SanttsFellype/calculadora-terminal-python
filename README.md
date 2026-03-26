@@ -39,10 +39,8 @@ Resultado: 15
 ## 🎯 Objetivo
 Este projeto faz parte do meu aprendizado em programação e desenvolvimento com Python.
 
-## 📈 Próximos passos
-- [ ] Melhorar interface do terminal
-- [ ] Tratar mais erros
-- [ ] Criar versão com interface gráfica (Tkinter)
+## 📈 Status
+Projeto finalizado ✅
 
 ## 👨‍💻 Autor
 Desenvolvido por **Fellype Santos**
